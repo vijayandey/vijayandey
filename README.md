@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vijayandey
 - 👀 I’m interested in ... Full Stack Development
 - 🌱 I’m currently learning ...Java, SQL, Cloud Computing, Cyber Security
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Backend Develpoment and Cloud Computing
 - 📫 How to reach me ... vijayandey0909@gmail.com
 
 <!---
